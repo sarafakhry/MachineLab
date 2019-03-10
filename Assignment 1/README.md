@@ -1,2 +1,3 @@
-#Motor assignment 1
+#MotorAssignment1
+
 inspired by a ferris wheel
