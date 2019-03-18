@@ -2,6 +2,13 @@
 
 Modifications to assignment 2
 
+3 Drawings:
+
+Sun;
+Spiral;
+Saturn
+
+
 Extra Material:
 
 Acrylic
